@@ -1,0 +1,5 @@
+{
+  "name": "t1-Bulkhead Pattern Explorer",
+  "description": "An interactive educational visualization of the Bulkhead Pattern for distributed systems resilience.",
+  "requestFramePermissions": []
+}
